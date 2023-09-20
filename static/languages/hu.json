@@ -9,5 +9,11 @@
   "textNote": "",
   "textDataAccess": "Hozzáférés az adatokhoz",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/CRIM_HOM_VREL/bookmark/table?lang=en&bookmarkId=1a2f9219-4691-4c59-90cb-0c6079474b65",
-  "textCountryClick": "További információért kattintson"
+  "textCountryClick": "További információért kattintson",
+  "extraInfoText_FI": "A legfrissebb adatok 2019",
+  "extraInfoLink_FI": "",
+  "extraInfoText_MT": "A legfrissebb adatok 2020-ból",
+  "extraInfoLink_MT": "",
+  "extraInfoText_RO": "A legfrissebb adatok 2017-ből",
+  "extraInfoLink_RO": ""
 }

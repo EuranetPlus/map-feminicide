@@ -9,5 +9,11 @@
   "textNote": "",
   "textDataAccess": "Достъп до данните",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/CRIM_HOM_VREL/bookmark/table?lang=en&bookmarkId=1a2f9219-4691-4c59-90cb-0c6079474b65",
-  "textCountryClick": "Кликнете за повече информация"
+  "textCountryClick": "Кликнете за повече информация",
+  "extraInfoText_FI": "Последни данни от 2019 г",
+  "extraInfoLink_FI": "",
+  "extraInfoText_MT": "Последни данни от 2020 г",
+  "extraInfoLink_MT": "",
+  "extraInfoText_RO": "Последни данни от 2017г",
+  "extraInfoLink_RO": ""
 }
