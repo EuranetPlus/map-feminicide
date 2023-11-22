@@ -1,5 +1,5 @@
 {
-  "heading": "Naisen tahallinen murha heidän intiimikumppaninsa toimesta",
+  "heading": "Naisten tahallinen murha, jonka heidän lähikumppaninsa teki vuonna 2021",
   "subheading": "Naisten tahalliset murhat Euroopan unionin maissa 100 000 asukasta kohden",
   "legend1": "Tietoja ei ole saatavilla",
   "tooltip1": "Tapahtumat 100 000 asukasta kohti",
@@ -10,10 +10,10 @@
   "textDataAccess": "Käytä tietoja",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/CRIM_HOM_VREL/bookmark/table?lang=fi&bookmarkId=1a2f9219-4691-4c59-90cb-0c6079474b65",
   "textCountryClick": "Napsauta saadaksesi lisätietoja",
-  "extraInfoText_FI": "Uusimmat tiedot vuodelta 2019",
+  "extraInfoText_FI": "Tiedot vuodelta 2019",
   "extraInfoLink_FI": "",
-  "extraInfoText_MT": "Uusimmat tiedot vuodelta 2020",
+  "extraInfoText_MT": "Tiedot vuodelta 2020",
   "extraInfoLink_MT": "",
-  "extraInfoText_RO": "Uusimmat tiedot vuodelta 2017",
+  "extraInfoText_RO": "Tiedot vuodelta 2017",
   "extraInfoLink_RO": ""
 }

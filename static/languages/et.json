@@ -1,5 +1,5 @@
 {
-  "heading": "Naise tahtlik mõrv nende intiimpartneri poolt",
+  "heading": "Naiste tahtlik mõrv nende intiimpartneri poolt 2021. aastal",
   "subheading": "Naiste tahtlike mõrvade juhtumid Euroopa Liidu riikides 100 000 elaniku kohta",
   "legend1": "Andmed puuduvad",
   "tooltip1": "Juhtumid 100 000 elaniku kohta",
@@ -10,10 +10,10 @@
   "textDataAccess": "Juurdepääs andmetele",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/CRIM_HOM_VREL/bookmark/table?lang=en&bookmarkId=1a2f9219-4691-4c59-90cb-0c6079474b65",
   "textCountryClick": "Lisateabe saamiseks klõpsake",
-  "extraInfoText_FI": "Viimased andmed aastast 2019",
+  "extraInfoText_FI": "Andmed aastast 2019",
   "extraInfoLink_FI": "",
-  "extraInfoText_MT": "Viimased andmed aastast 2020",
+  "extraInfoText_MT": "Andmed aastast 2020",
   "extraInfoLink_MT": "",
-  "extraInfoText_RO": "Viimased andmed aastast 2017",
+  "extraInfoText_RO": "Andmed aastast 2017",
   "extraInfoLink_RO": ""
 }

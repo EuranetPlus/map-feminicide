@@ -1,5 +1,5 @@
 {
-  "heading": "Homicidio intencional de mujeres por parte de su pareja íntima",
+  "heading": "Homicidio intencional de mujeres por parte de su pareja íntima en 2021",
   "subheading": "Incidentes de homicidios intencionales de mujeres en países de la Unión Europea por cada 100.000 habitantes",
   "legend1": "Datos no disponibles",
   "tooltip1": "Incidentes por 100.000 habitantes",
@@ -10,10 +10,10 @@
   "textDataAccess": "Accede a los datos",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/CRIM_HOM_VREL/bookmark/table?lang=en&bookmarkId=1a2f9219-4691-4c59-90cb-0c6079474b65",
   "textCountryClick": "Haga clic para más información",
-  "extraInfoText_FI": "Últimos datos de 2019",
+  "extraInfoText_FI": "Datos de 2019",
   "extraInfoLink_FI": "",
-  "extraInfoText_MT": "Últimos datos de 2020",
+  "extraInfoText_MT": "Datos de 2020",
   "extraInfoLink_MT": "",
-  "extraInfoText_RO": "Últimos datos de 2017",
+  "extraInfoText_RO": "Datos de 2017",
   "extraInfoLink_RO": ""
 }

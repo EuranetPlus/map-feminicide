@@ -1,5 +1,5 @@
 {
-  "heading": "Namjerno ubojstvo žena od strane intimnog partnera",
+  "heading": "Namjerno ubojstvo žena od strane intimnog partnera 2021",
   "subheading": "Broj slučajeva namjernih ubojstava žena u zemljama Europske unije na 100.000 stanovnika",
   "legend1": "Nema dostupnih podataka",
   "tooltip1": "Incidenata na 100.000 stanovnika",
@@ -8,12 +8,12 @@
   "textNoteDescription": "Bilješka",
   "textNote": "",
   "textDataAccess": "Pristupite podacima",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/CRIM_HOM_VREL/bookmark/table?lang=hr&bookmarkId=1a2f9219-4691-4c59-90cb-0c6079474b65",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/CRIM_HOM_VREL/bookmark/table?lang=en&bookmarkId=1a2f9219-4691-4c59-90cb-0c6079474b65",
   "textCountryClick": "Kliknite za više informacija",
-  "extraInfoText_FI": "Najnoviji podaci iz 2019",
+  "extraInfoText_FI": "Podaci iz 2019",
   "extraInfoLink_FI": "",
-  "extraInfoText_MT": "Najnoviji podaci iz 2020",
+  "extraInfoText_MT": "Podaci iz 2020",
   "extraInfoLink_MT": "",
-  "extraInfoText_RO": "Najnoviji podaci iz 2017",
+  "extraInfoText_RO": "Podaci iz 2017. godine",
   "extraInfoLink_RO": ""
 }

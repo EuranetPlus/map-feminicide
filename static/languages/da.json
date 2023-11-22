@@ -1,5 +1,5 @@
 {
-  "heading": "Forsætligt drab på kvinder af deres intime partner",
+  "heading": "Forsætligt drab på kvinder af deres intime partner i 2021",
   "subheading": "Hændelser af forsætlige drab på kvinder i lande i Den Europæiske Union pr. 100.000 indbyggere",
   "legend1": "Ingen tilgængelig data",
   "tooltip1": "Hændelser pr. 100.000 indbyggere",
@@ -10,10 +10,10 @@
   "textDataAccess": "Få adgang til data",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/CRIM_HOM_VREL/bookmark/table?lang=en&bookmarkId=1a2f9219-4691-4c59-90cb-0c6079474b65",
   "textCountryClick": "Klik for mere info",
-  "extraInfoText_FI": "Seneste data fra 2019",
+  "extraInfoText_FI": "Data fra 2019",
   "extraInfoLink_FI": "",
-  "extraInfoText_MT": "Seneste data fra 2020",
+  "extraInfoText_MT": "Data fra 2020",
   "extraInfoLink_MT": "",
-  "extraInfoText_RO": "Seneste data fra 2017",
+  "extraInfoText_RO": "Data fra 2017",
   "extraInfoLink_RO": ""
 }

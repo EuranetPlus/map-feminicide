@@ -1,5 +1,5 @@
 {
-  "heading": "Avsiktligt mord på kvinnor av deras intima partner",
+  "heading": "Avsiktligt mord på kvinnor av deras intima partner 2021",
   "subheading": "Incidenter av avsiktliga mord på kvinnor i länder i Europeiska unionen per 100 000 invånare",
   "legend1": "Ingen data tillgänglig",
   "tooltip1": "Incidenter per 100 000 invånare",
@@ -10,10 +10,10 @@
   "textDataAccess": "Få åtkomst till data",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/CRIM_HOM_VREL/bookmark/table?lang=en&bookmarkId=1a2f9219-4691-4c59-90cb-0c6079474b65",
   "textCountryClick": "Klicka för mer info",
-  "extraInfoText_FI": "Senaste data från 2019",
+  "extraInfoText_FI": "Data från 2019",
   "extraInfoLink_FI": "",
-  "extraInfoText_MT": "Senaste data från 2020",
+  "extraInfoText_MT": "Data från 2020",
   "extraInfoLink_MT": "",
-  "extraInfoText_RO": "Senaste data från 2017",
+  "extraInfoText_RO": "Data från 2017",
   "extraInfoLink_RO": ""
 }

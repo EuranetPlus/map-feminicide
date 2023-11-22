@@ -1,5 +1,5 @@
 {
-  "heading": "Dúnmharú d’aon ghnó ban ag a bpáirtí dlúth",
+  "heading": "Dúnmharú d’aon ghnó ban ag a bpáirtí dlúth in 2021",
   "subheading": "Teagmhais dúnbhásaithe d’aon ghnó ban i dtíortha an Aontais Eorpaigh in aghaidh gach 100,000 áitritheoir",
   "legend1": "Níl aon sonraí ar fáil",
   "tooltip1": "Teagmhais in aghaidh gach 100,000 áitritheoir",
@@ -10,10 +10,10 @@
   "textDataAccess": "Faigh rochtain ar na sonraí",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/CRIM_HOM_VREL/bookmark/table?lang=en&bookmarkId=1a2f9219-4691-4c59-90cb-0c6079474b65",
   "textCountryClick": "Cliceáil le haghaidh tuilleadh eolais",
-  "extraInfoText_FI": "Na sonraí is déanaí ó 2019",
+  "extraInfoText_FI": "Sonraí ó 2019",
   "extraInfoLink_FI": "",
-  "extraInfoText_MT": "Na sonraí is déanaí ó 2020",
+  "extraInfoText_MT": "Sonraí ó 2020",
   "extraInfoLink_MT": "",
-  "extraInfoText_RO": "Na sonraí is déanaí ó 2017",
+  "extraInfoText_RO": "Sonraí ó 2017",
   "extraInfoLink_RO": ""
 }

@@ -1,5 +1,5 @@
 {
-  "heading": "Úmyslné zabití žen jejich intimním partnerem",
+  "heading": "Úmyslné zabití žen jejich intimním partnerem v roce 2021",
   "subheading": "Počet případů úmyslných vražd žen v zemích Evropské unie na 100 000 obyvatel",
   "legend1": "Nejsou k dispozici žádné údaje",
   "tooltip1": "Incidenty na 100 000 obyvatel",
@@ -10,10 +10,10 @@
   "textDataAccess": "Přístup k datům",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/CRIM_HOM_VREL/bookmark/table?lang=cs&bookmarkId=1a2f9219-4691-4c59-90cb-0c6079474b65",
   "textCountryClick": "Klikněte pro více informací",
-  "extraInfoText_FI": "Nejnovější údaje z roku 2019",
+  "extraInfoText_FI": "Údaje z roku 2019",
   "extraInfoLink_FI": "",
-  "extraInfoText_MT": "Nejnovější údaje z roku 2020",
+  "extraInfoText_MT": "Údaje z roku 2020",
   "extraInfoLink_MT": "",
-  "extraInfoText_RO": "Nejnovější údaje z roku 2017",
+  "extraInfoText_RO": "Údaje z roku 2017",
   "extraInfoLink_RO": ""
 }
