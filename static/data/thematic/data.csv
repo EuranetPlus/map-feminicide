@@ -1,7 +1,7 @@
 country,id,value,extraInfo,text_content,link_text,link_url_target,audio_url_1,audio_url_2,audio_url_3,image_url_source,image_url_target,video_url
 Albania,AL,null,FALSE,,,,,,,,,
 Austria,AT,null,FALSE,,,,,,,,,
-Belgium,BE,null,FALSE,,,,,,,,,
+Belgium,BE,0.19,FALSE,,,,,,,,,
 Bulgaria,BG,null,FALSE,,,,,,,,,
 Bosnia and Herzegovina,BA,null,FALSE,,,,,,,,,
 Switzerland,CH,null,FALSE,,,,,,,,,
