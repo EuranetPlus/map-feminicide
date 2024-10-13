@@ -1,5 +1,5 @@
 {
-  "heading": "Nők intim partnere által elkövetett szándékos emberölése 2021-ben",
+  "heading": "Nők intim partnere által elkövetett szándékos emberölése 2022-ben",
   "subheading": "100 000 lakosra jutó szándékos nőgyilkosságok az Európai Unió országaiban",
   "legend1": "Nincs adat",
   "tooltip1": "100 000 lakosra jutó események",
@@ -9,11 +9,5 @@
   "textNote": "",
   "textDataAccess": "Hozzáférés az adatokhoz",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/CRIM_HOM_VREL/bookmark/table?lang=en&bookmarkId=1a2f9219-4691-4c59-90cb-0c6079474b65",
-  "textCountryClick": "Kattintson további információkért",
-  "extraInfoText_FI": "2019-es adatok",
-  "extraInfoLink_FI": "",
-  "extraInfoText_CY": "2020-as adatok",
-  "extraInfoLink_CY": "",
-  "extraInfoText_SE": "2019-es adatok",
-  "extraInfoLink_SE": ""
+  "textCountryClick": "További információért kattintson"
 }

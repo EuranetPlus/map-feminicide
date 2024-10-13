@@ -1,5 +1,5 @@
 {
-  "heading": "Homicídio intencional de mulheres por parceiro íntimo em 2021",
+  "heading": "Homicídio intencional de mulheres por parceiro íntimo em 2022",
   "subheading": "Incidentes de homicídios intencionais de mulheres em países da União Europeia por 100.000 habitantes",
   "legend1": "Não há dados disponíveis",
   "tooltip1": "Incidentes por 100.000 habitantes",
@@ -9,11 +9,5 @@
   "textNote": "",
   "textDataAccess": "Acesse os dados",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/CRIM_HOM_VREL/bookmark/table?lang=en&bookmarkId=1a2f9219-4691-4c59-90cb-0c6079474b65",
-  "textCountryClick": "Clique para mais informações",
-  "extraInfoText_FI": "Dados de 2019",
-  "extraInfoLink_FI": "",
-  "extraInfoText_CY": "Dados de 2020",
-  "extraInfoLink_CY": "",
-  "extraInfoText_SE": "Dados de 2019",
-  "extraInfoLink_SE": ""
+  "textCountryClick": "Clique para mais informações"
 }

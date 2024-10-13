@@ -1,5 +1,5 @@
 {
-  "heading": "Opzettelijke doodslag op vrouwen door hun intieme partner in 2021",
+  "heading": "Opzettelijke doodslag op vrouwen door hun intieme partner in 2022",
   "subheading": "Incidenten van opzettelijke doodslag op vrouwen in landen van de Europese Unie per 100.000 inwoners",
   "legend1": "Geen gegevens beschikbaar",
   "tooltip1": "Incidenten per 100.000 inwoners",
@@ -9,11 +9,5 @@
   "textNote": "",
   "textDataAccess": "Toegang tot de gegevens",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/CRIM_HOM_VREL/bookmark/table?lang=en&bookmarkId=1a2f9219-4691-4c59-90cb-0c6079474b65",
-  "textCountryClick": "Klik voor meer info",
-  "extraInfoText_FI": "Gegevens uit 2019",
-  "extraInfoLink_FI": "",
-  "extraInfoText_CY": "Gegevens uit 2020",
-  "extraInfoLink_CY": "",
-  "extraInfoText_SE": "Gegevens uit 2019",
-  "extraInfoLink_SE": ""
+  "textCountryClick": "Klik voor meer info"
 }

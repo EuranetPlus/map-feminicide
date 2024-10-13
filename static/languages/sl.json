@@ -1,7 +1,7 @@
 {
-  "heading": "Namerni umor žensk s strani intimnega partnerja leta 2021",
+  "heading": "Namerni umor žensk s strani intimnega partnerja leta 2022",
   "subheading": "Število namernih umorov žensk v državah Evropske unije na 100.000 prebivalcev",
-  "legend1": "Podatki niso na voljo",
+  "legend1": "Ni podatkov",
   "tooltip1": "Incidentov na 100.000 prebivalcev",
   "textSourceDescription": "Vir",
   "textSource": "Eurostat",
@@ -9,11 +9,5 @@
   "textNote": "",
   "textDataAccess": "Dostopajte do podatkov",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/CRIM_HOM_VREL/bookmark/table?lang=en&bookmarkId=1a2f9219-4691-4c59-90cb-0c6079474b65",
-  "textCountryClick": "Kliknite za več informacij",
-  "extraInfoText_FI": "Podatki iz leta 2019",
-  "extraInfoLink_FI": "",
-  "extraInfoText_CY": "Podatki iz leta 2020",
-  "extraInfoLink_CY": "",
-  "extraInfoText_SE": "Podatki iz leta 2019",
-  "extraInfoLink_SE": ""
+  "textCountryClick": "Kliknite za več informacij"
 }

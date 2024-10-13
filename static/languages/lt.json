@@ -1,5 +1,5 @@
 {
-  "heading": "Tyčinė moterų žmogžudystė, kurią įvykdė jų intymus partneris 2021 m",
+  "heading": "Tyčinė moterų žmogžudystė, kurią įvykdė jų artimas partneris 2022 m",
   "subheading": "100 000 gyventojų tenka tyčinių moterų žmogžudysčių atvejų Europos Sąjungos šalyse",
   "legend1": "Nėra duomenų",
   "tooltip1": "Incidentų skaičius 100 000 gyventojų",
@@ -9,11 +9,5 @@
   "textNote": "",
   "textDataAccess": "Pasiekite duomenis",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/CRIM_HOM_VREL/bookmark/table?lang=en&bookmarkId=1a2f9219-4691-4c59-90cb-0c6079474b65",
-  "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos",
-  "extraInfoText_FI": "Duomenys iš 2019 m",
-  "extraInfoLink_FI": "",
-  "extraInfoText_CY": "Duomenys iš 2020 m",
-  "extraInfoLink_CY": "",
-  "extraInfoText_SE": "Duomenys iš 2019 m",
-  "extraInfoLink_SE": ""
+  "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos"
 }

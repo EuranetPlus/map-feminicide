@@ -1,5 +1,5 @@
 {
-  "heading": "Omucidere intenționată a femeilor de către partenerul lor intim în 2021",
+  "heading": "Omucidere intenționată a femeilor de către partenerul lor intim în 2022",
   "subheading": "Incidente de omucideri intenționate de femei în țările Uniunii Europene la 100.000 de locuitori",
   "legend1": "Nu există date disponibile",
   "tooltip1": "Incidente la 100.000 de locuitori",
@@ -9,11 +9,5 @@
   "textNote": "",
   "textDataAccess": "Accesați datele",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/CRIM_HOM_VREL/bookmark/table?lang=en&bookmarkId=1a2f9219-4691-4c59-90cb-0c6079474b65",
-  "textCountryClick": "Click pentru mai multe informații",
-  "extraInfoText_FI": "Date din 2019",
-  "extraInfoLink_FI": "",
-  "extraInfoText_CY": "Date din 2020",
-  "extraInfoLink_CY": "",
-  "extraInfoText_SE": "Date din 2019",
-  "extraInfoLink_SE": ""
+  "textCountryClick": "Click pentru mai multe informații"
 }

@@ -1,5 +1,5 @@
 {
-  "heading": "Δολοφονία από πρόθεση θηλυκών από τον σύντροφό τους το 2021",
+  "heading": "Δολοφονία από πρόθεση θηλυκών από τον σύντροφό τους το 2022",
   "subheading": "Περιστατικά ανθρωποκτονιών από πρόθεση γυναικών σε χώρες της Ευρωπαϊκής Ένωσης ανά 100.000 κατοίκους",
   "legend1": "Δεν υπάρχουν διαθέσιμα δεδομένα",
   "tooltip1": "Περιστατικά ανά 100.000 κατοίκους",
@@ -9,11 +9,5 @@
   "textNote": "",
   "textDataAccess": "Πρόσβαση στα δεδομένα",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/CRIM_HOM_VREL/bookmark/table?lang=en&bookmarkId=1a2f9219-4691-4c59-90cb-0c6079474b65",
-  "textCountryClick": "Κάντε κλικ για περισσότερες πληροφορίες",
-  "extraInfoText_FI": "Στοιχεία από το 2019",
-  "extraInfoLink_FI": "",
-  "extraInfoText_CY": "Στοιχεία από το 2020",
-  "extraInfoLink_CY": "",
-  "extraInfoText_SE": "Στοιχεία από το 2019",
-  "extraInfoLink_SE": ""
+  "textCountryClick": "Κάντε κλικ για περισσότερες πληροφορίες"
 }
