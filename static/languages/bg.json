@@ -1,7 +1,7 @@
 {
   "heading": "Умишлено убийство на жени от интимния им партньор през 2021 г",
   "subheading": "Случаи на умишлени убийства на жени в страните от Европейския съюз на 100 000 жители",
-  "legend1": "Няма данни",
+  "legend1": "Няма налични данни",
   "tooltip1": "Инциденти на 100 000 жители",
   "textSourceDescription": "Източник",
   "textSource": "Евростат",
@@ -12,8 +12,8 @@
   "textCountryClick": "Кликнете за повече информация",
   "extraInfoText_FI": "Данни от 2019г",
   "extraInfoLink_FI": "",
-  "extraInfoText_MT": "Данни от 2020г",
-  "extraInfoLink_MT": "",
-  "extraInfoText_RO": "Данни от 2017г",
-  "extraInfoLink_RO": ""
+  "extraInfoText_CY": "Данни от 2020г",
+  "extraInfoLink_CY": "",
+  "extraInfoText_SE": "Данни от 2019г",
+  "extraInfoLink_SE": ""
 }

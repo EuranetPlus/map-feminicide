@@ -1,6 +1,6 @@
 {
-  "heading": "Homicídio doloso de mulheres cometido por parceiro íntimo em 2021",
-  "subheading": "Incidentes de homicídios intencionais de mulheres nos países da União Europeia por 100.000 habitantes",
+  "heading": "Homicídio intencional de mulheres por parceiro íntimo em 2021",
+  "subheading": "Incidentes de homicídios intencionais de mulheres em países da União Europeia por 100.000 habitantes",
   "legend1": "Não há dados disponíveis",
   "tooltip1": "Incidentes por 100.000 habitantes",
   "textSourceDescription": "Fonte",
@@ -12,8 +12,8 @@
   "textCountryClick": "Clique para mais informações",
   "extraInfoText_FI": "Dados de 2019",
   "extraInfoLink_FI": "",
-  "extraInfoText_MT": "Dados de 2020",
-  "extraInfoLink_MT": "",
-  "extraInfoText_RO": "Dados de 2017",
-  "extraInfoLink_RO": ""
+  "extraInfoText_CY": "Dados de 2020",
+  "extraInfoLink_CY": "",
+  "extraInfoText_SE": "Dados de 2019",
+  "extraInfoLink_SE": ""
 }

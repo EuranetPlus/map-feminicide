@@ -1,6 +1,6 @@
 {
-  "heading": "Umyślne zabójstwo kobiet przez ich partnera intymnego w 2021 r",
-  "subheading": "Przypadki umyślnych zabójstw kobiet w krajach Unii Europejskiej na 100 tys. mieszkańców",
+  "heading": "Umyślne zabójstwo kobiet przez ich bliskich partnerów w 2021 r.",
+  "subheading": "Przypadki umyślnych zabójstw kobiet w krajach Unii Europejskiej na 100 000 mieszkańców",
   "legend1": "Brak dostępnych danych",
   "tooltip1": "Incydenty na 100 000 mieszkańców",
   "textSourceDescription": "Źródło",
@@ -10,10 +10,10 @@
   "textDataAccess": "Uzyskaj dostęp do danych",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/CRIM_HOM_VREL/bookmark/table?lang=en&bookmarkId=1a2f9219-4691-4c59-90cb-0c6079474b65",
   "textCountryClick": "Kliknij, aby uzyskać więcej informacji",
-  "extraInfoText_FI": "Dane z 2019 roku",
+  "extraInfoText_FI": "Dane z 2019 r.",
   "extraInfoLink_FI": "",
-  "extraInfoText_MT": "Dane z 2020 roku",
-  "extraInfoLink_MT": "",
-  "extraInfoText_RO": "Dane z 2017 roku",
-  "extraInfoLink_RO": ""
+  "extraInfoText_CY": "Dane z 2020 r.",
+  "extraInfoLink_CY": "",
+  "extraInfoText_SE": "Dane z 2019 r.",
+  "extraInfoLink_SE": ""
 }

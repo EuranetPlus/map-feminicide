@@ -5,15 +5,15 @@
   "tooltip1": "Περιστατικά ανά 100.000 κατοίκους",
   "textSourceDescription": "Πηγή",
   "textSource": "Eurostat",
-  "textNoteDescription": "Σημείωση",
+  "textNoteDescription": "Σημείωμα",
   "textNote": "",
   "textDataAccess": "Πρόσβαση στα δεδομένα",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/CRIM_HOM_VREL/bookmark/table?lang=en&bookmarkId=1a2f9219-4691-4c59-90cb-0c6079474b65",
   "textCountryClick": "Κάντε κλικ για περισσότερες πληροφορίες",
   "extraInfoText_FI": "Στοιχεία από το 2019",
   "extraInfoLink_FI": "",
-  "extraInfoText_MT": "Στοιχεία από το 2020",
-  "extraInfoLink_MT": "",
-  "extraInfoText_RO": "Στοιχεία από το 2017",
-  "extraInfoLink_RO": ""
+  "extraInfoText_CY": "Στοιχεία από το 2020",
+  "extraInfoLink_CY": "",
+  "extraInfoText_SE": "Στοιχεία από το 2019",
+  "extraInfoLink_SE": ""
 }

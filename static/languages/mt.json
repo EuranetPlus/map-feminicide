@@ -1,7 +1,7 @@
 {
   "heading": "Omiċidju intenzjonat ta’ nisa mis-sieħeb intimu tagħhom fl-2021",
   "subheading": "Inċidenti ta' omiċidji intenzjonati ta' nisa f'pajjiżi tal-Unjoni Ewropea għal kull 100,000 abitant",
-  "legend1": "Ebda data disponibbli",
+  "legend1": "L-ebda dejta disponibbli",
   "tooltip1": "Inċidenti għal kull 100,000 abitant",
   "textSourceDescription": "Sors",
   "textSource": "Eurostat",
@@ -12,8 +12,8 @@
   "textCountryClick": "Ikklikkja għal aktar informazzjoni",
   "extraInfoText_FI": "Dejta mill-2019",
   "extraInfoLink_FI": "",
-  "extraInfoText_MT": "Dejta mill-2020",
-  "extraInfoLink_MT": "",
-  "extraInfoText_RO": "Dejta mill-2017",
-  "extraInfoLink_RO": ""
+  "extraInfoText_CY": "Dejta mill-2020",
+  "extraInfoLink_CY": "",
+  "extraInfoText_SE": "Dejta mill-2019",
+  "extraInfoLink_SE": ""
 }

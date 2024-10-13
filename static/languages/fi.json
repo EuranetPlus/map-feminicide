@@ -5,15 +5,15 @@
   "tooltip1": "Tapahtumat 100 000 asukasta kohti",
   "textSourceDescription": "Lähde",
   "textSource": "Eurostat",
-  "textNoteDescription": "Huomautus",
+  "textNoteDescription": "Huom",
   "textNote": "",
   "textDataAccess": "Käytä tietoja",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/CRIM_HOM_VREL/bookmark/table?lang=fi&bookmarkId=1a2f9219-4691-4c59-90cb-0c6079474b65",
   "textCountryClick": "Napsauta saadaksesi lisätietoja",
   "extraInfoText_FI": "Tiedot vuodelta 2019",
   "extraInfoLink_FI": "",
-  "extraInfoText_MT": "Tiedot vuodelta 2020",
-  "extraInfoLink_MT": "",
-  "extraInfoText_RO": "Tiedot vuodelta 2017",
-  "extraInfoLink_RO": ""
+  "extraInfoText_CY": "Tiedot vuodelta 2020",
+  "extraInfoLink_CY": "",
+  "extraInfoText_SE": "Tiedot vuodelta 2019",
+  "extraInfoLink_SE": ""
 }

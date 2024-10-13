@@ -1,19 +1,19 @@
 {
-  "heading": "Vorsätzliche Tötung von Frauen durch ihren Intimpartner im Jahr 2021",
-  "subheading": "Vorfälle vorsätzlicher Tötungsdelikte an Frauen in Ländern der Europäischen Union pro 100.000 Einwohner",
+  "heading": "Vorsätzliche Tötung von Frauen durch ihren Lebenspartner im Jahr 2021",
+  "subheading": "Vorfälle vorsätzlicher Tötung von Frauen in Ländern der Europäischen Union pro 100.000 Einwohner",
   "legend1": "Keine Daten verfügbar",
   "tooltip1": "Vorfälle pro 100.000 Einwohner",
   "textSourceDescription": "Quelle",
   "textSource": "Eurostat",
   "textNoteDescription": "Notiz",
   "textNote": "",
-  "textDataAccess": "Greifen Sie auf die Daten zu",
+  "textDataAccess": "Zugriff auf die Daten",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/CRIM_HOM_VREL/bookmark/table?lang=en&bookmarkId=1a2f9219-4691-4c59-90cb-0c6079474b65",
-  "textCountryClick": "Klicken Sie für weitere Informationen",
-  "extraInfoText_FI": "Daten von 2019",
+  "textCountryClick": "Klicken Sie hier für weitere Informationen",
+  "extraInfoText_FI": "Daten aus 2019",
   "extraInfoLink_FI": "",
-  "extraInfoText_MT": "Daten aus dem Jahr 2020",
-  "extraInfoLink_MT": "",
-  "extraInfoText_RO": "Daten von 2017",
-  "extraInfoLink_RO": ""
+  "extraInfoText_CY": "Daten aus dem Jahr 2020",
+  "extraInfoLink_CY": "",
+  "extraInfoText_SE": "Daten aus 2019",
+  "extraInfoLink_SE": ""
 }

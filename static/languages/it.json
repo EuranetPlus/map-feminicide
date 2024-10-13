@@ -1,6 +1,6 @@
 {
-  "heading": "Omicidio intenzionale di donne da parte del loro partner intimo nel 2021",
-  "subheading": "Episodi di omicidi intenzionali di donne nei paesi dell'Unione Europea ogni 100.000 abitanti",
+  "heading": "Omicidio intenzionale di donne da parte del partner intimo nel 2021",
+  "subheading": "Incidenti di omicidi intenzionali di donne nei paesi dell'Unione Europea ogni 100.000 abitanti",
   "legend1": "Nessun dato disponibile",
   "tooltip1": "Incidenti ogni 100.000 abitanti",
   "textSourceDescription": "Fonte",
@@ -9,11 +9,11 @@
   "textNote": "",
   "textDataAccess": "Accedi ai dati",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/CRIM_HOM_VREL/bookmark/table?lang=it&bookmarkId=1a2f9219-4691-4c59-90cb-0c6079474b65",
-  "textCountryClick": "Fare clic per maggiori informazioni",
+  "textCountryClick": "Clicca per maggiori informazioni",
   "extraInfoText_FI": "Dati del 2019",
   "extraInfoLink_FI": "",
-  "extraInfoText_MT": "Dati del 2020",
-  "extraInfoLink_MT": "",
-  "extraInfoText_RO": "Dati del 2017",
-  "extraInfoLink_RO": ""
+  "extraInfoText_CY": "Dati del 2020",
+  "extraInfoLink_CY": "",
+  "extraInfoText_SE": "Dati del 2019",
+  "extraInfoLink_SE": ""
 }

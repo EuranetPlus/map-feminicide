@@ -5,15 +5,15 @@
   "tooltip1": "Juhtumid 100 000 elaniku kohta",
   "textSourceDescription": "Allikas",
   "textSource": "Eurostat",
-  "textNoteDescription": "Märge",
+  "textNoteDescription": "Märkus",
   "textNote": "",
   "textDataAccess": "Juurdepääs andmetele",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/CRIM_HOM_VREL/bookmark/table?lang=en&bookmarkId=1a2f9219-4691-4c59-90cb-0c6079474b65",
   "textCountryClick": "Lisateabe saamiseks klõpsake",
   "extraInfoText_FI": "Andmed aastast 2019",
   "extraInfoLink_FI": "",
-  "extraInfoText_MT": "Andmed aastast 2020",
-  "extraInfoLink_MT": "",
-  "extraInfoText_RO": "Andmed aastast 2017",
-  "extraInfoLink_RO": ""
+  "extraInfoText_CY": "Andmed aastast 2020",
+  "extraInfoLink_CY": "",
+  "extraInfoText_SE": "Andmed aastast 2019",
+  "extraInfoLink_SE": ""
 }
