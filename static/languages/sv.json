@@ -6,8 +6,11 @@
   "textSourceDescription": "Källa",
   "textSource": "Eurostat",
   "textNoteDescription": "Notera",
-  "textNote": "",
+  "textNote": "De flesta faktiska uppgifter som finns tillgängliga för Finland, Cypern och Sverige är från 2019.",
   "textDataAccess": "Få åtkomst till data",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/CRIM_HOM_VREL/bookmark/table?lang=en&bookmarkId=1a2f9219-4691-4c59-90cb-0c6079474b65",
-  "textCountryClick": "Klicka för mer info"
+  "textCountryClick": "Klicka för mer info",
+  "extraInfoText_CY": "Data från 2019",
+  "extraInfoText_FI": "Data från 2019",
+  "extraInfoText_SE": "Data från 2019"
 }

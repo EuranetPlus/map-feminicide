@@ -6,8 +6,11 @@
   "textSourceDescription": "Sursă",
   "textSource": "Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "",
+  "textNote": "Cele mai multe date reale disponibile pentru Finlanda, Cipru și Suedia sunt din 2019.",
   "textDataAccess": "Accesați datele",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/CRIM_HOM_VREL/bookmark/table?lang=en&bookmarkId=1a2f9219-4691-4c59-90cb-0c6079474b65",
-  "textCountryClick": "Click pentru mai multe informații"
+  "textCountryClick": "Click pentru mai multe informații",
+  "extraInfoText_CY": "Date din 2019",
+  "extraInfoText_FI": "Date din 2019",
+  "extraInfoText_SE": "Date din 2019"
 }

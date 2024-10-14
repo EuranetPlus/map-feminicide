@@ -6,8 +6,11 @@
   "textSourceDescription": "Lähde",
   "textSource": "Eurostat",
   "textNoteDescription": "Huom",
-  "textNote": "",
+  "textNote": "Suurin osa Suomen, Kyproksen ja Ruotsin ajankohtaisista tiedoista on vuodelta 2019.",
   "textDataAccess": "Käytä tietoja",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/CRIM_HOM_VREL/bookmark/table?lang=fi&bookmarkId=1a2f9219-4691-4c59-90cb-0c6079474b65",
-  "textCountryClick": "Napsauta saadaksesi lisätietoja"
+  "textCountryClick": "Napsauta saadaksesi lisätietoja",
+  "extraInfoText_CY": "Tiedot vuodelta 2019",
+  "extraInfoText_FI": "Tiedot vuodelta 2019",
+  "extraInfoText_SE": "Tiedot vuodelta 2019"
 }

@@ -6,8 +6,11 @@
   "textSourceDescription": "Sors",
   "textSource": "Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "",
+  "textNote": "Il-biċċa l-kbira tad-dejta attwali disponibbli għall-Finlandja, Ċipru u l-Isvezja hija mill-2019.",
   "textDataAccess": "Aċċessa għad-data",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/CRIM_HOM_VREL/bookmark/table?lang=en&bookmarkId=1a2f9219-4691-4c59-90cb-0c6079474b65",
-  "textCountryClick": "Ikklikkja għal aktar informazzjoni"
+  "textCountryClick": "Ikklikkja għal aktar informazzjoni",
+  "extraInfoText_CY": "Dejta mill-2019",
+  "extraInfoText_FI": "Dejta mill-2019",
+  "extraInfoText_SE": "Dejta mill-2019"
 }

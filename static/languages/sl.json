@@ -6,8 +6,11 @@
   "textSourceDescription": "Vir",
   "textSource": "Eurostat",
   "textNoteDescription": "Opomba",
-  "textNote": "",
+  "textNote": "Večina dejanskih podatkov, ki so na voljo za Finsko, Ciper in Švedsko, je iz leta 2019.",
   "textDataAccess": "Dostopajte do podatkov",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/CRIM_HOM_VREL/bookmark/table?lang=en&bookmarkId=1a2f9219-4691-4c59-90cb-0c6079474b65",
-  "textCountryClick": "Kliknite za več informacij"
+  "textCountryClick": "Kliknite za več informacij",
+  "extraInfoText_CY": "Podatki iz leta 2019",
+  "extraInfoText_FI": "Podatki iz leta 2019",
+  "extraInfoText_SE": "Podatki iz leta 2019"
 }

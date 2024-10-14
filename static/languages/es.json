@@ -6,8 +6,11 @@
   "textSourceDescription": "Fuente",
   "textSource": "Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "",
+  "textNote": "La mayoría de los datos reales disponibles para Finlandia, Chipre y Suecia son de 2019.",
   "textDataAccess": "Acceder a los datos",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/CRIM_HOM_VREL/bookmark/table?lang=en&bookmarkId=1a2f9219-4691-4c59-90cb-0c6079474b65",
-  "textCountryClick": "Haga clic para más información"
+  "textCountryClick": "Haga clic para más información",
+  "extraInfoText_CY": "Datos de 2019",
+  "extraInfoText_FI": "Datos de 2019",
+  "extraInfoText_SE": "Datos de 2019"
 }

@@ -6,8 +6,11 @@
   "textSourceDescription": "Bron",
   "textSource": "Eurostat",
   "textNoteDescription": "Opmerking",
-  "textNote": "",
+  "textNote": "De meeste actuele gegevens die beschikbaar zijn voor Finland, Cyprus en Zweden, zijn uit 2019.",
   "textDataAccess": "Toegang tot de gegevens",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/CRIM_HOM_VREL/bookmark/table?lang=en&bookmarkId=1a2f9219-4691-4c59-90cb-0c6079474b65",
-  "textCountryClick": "Klik voor meer info"
+  "textCountryClick": "Klik voor meer info",
+  "extraInfoText_CY": "Gegevens uit 2019",
+  "extraInfoText_FI": "Gegevens uit 2019",
+  "extraInfoText_SE": "Gegevens uit 2019"
 }

@@ -6,8 +6,11 @@
   "textSourceDescription": "Forrás",
   "textSource": "Eurostat",
   "textNoteDescription": "Jegyzet",
-  "textNote": "",
+  "textNote": "A legtöbb rendelkezésre álló tényleges adat Finnországról, Ciprusról és Svédországról 2019-ből származik.",
   "textDataAccess": "Hozzáférés az adatokhoz",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/CRIM_HOM_VREL/bookmark/table?lang=en&bookmarkId=1a2f9219-4691-4c59-90cb-0c6079474b65",
-  "textCountryClick": "További információért kattintson"
+  "textCountryClick": "További információért kattintson",
+  "extraInfoText_CY": "2019-es adatok",
+  "extraInfoText_FI": "2019-es adatok",
+  "extraInfoText_SE": "2019-es adatok"
 }

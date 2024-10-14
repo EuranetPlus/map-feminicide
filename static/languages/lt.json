@@ -6,8 +6,11 @@
   "textSourceDescription": "Šaltinis",
   "textSource": "Eurostatas",
   "textNoteDescription": "Pastaba",
-  "textNote": "",
+  "textNote": "Dauguma turimų faktinių duomenų apie Suomiją, Kiprą ir Švediją yra nuo 2019 m.",
   "textDataAccess": "Pasiekite duomenis",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/CRIM_HOM_VREL/bookmark/table?lang=en&bookmarkId=1a2f9219-4691-4c59-90cb-0c6079474b65",
-  "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos"
+  "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos",
+  "extraInfoText_CY": "Duomenys iš 2019 m",
+  "extraInfoText_FI": "Duomenys iš 2019 m",
+  "extraInfoText_SE": "Duomenys iš 2019 m"
 }

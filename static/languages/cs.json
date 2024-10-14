@@ -6,8 +6,11 @@
   "textSourceDescription": "Zdroj",
   "textSource": "Eurostat",
   "textNoteDescription": "Poznámka",
-  "textNote": "",
+  "textNote": "Většina aktuálních údajů dostupných pro Finsko, Kypr a Švédsko je z roku 2019.",
   "textDataAccess": "Přístup k datům",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/CRIM_HOM_VREL/bookmark/table?lang=cs&bookmarkId=1a2f9219-4691-4c59-90cb-0c6079474b65",
-  "textCountryClick": "Klikněte pro více informací"
+  "textCountryClick": "Klikněte pro více informací",
+  "extraInfoText_CY": "Údaje z roku 2019",
+  "extraInfoText_FI": "Údaje z roku 2019",
+  "extraInfoText_SE": "Údaje z roku 2019"
 }

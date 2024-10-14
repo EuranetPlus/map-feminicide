@@ -6,8 +6,11 @@
   "textSourceDescription": "Fonte",
   "textSource": "Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "",
+  "textNote": "La maggior parte dei dati effettivi disponibili per Finlandia, Cipro e Svezia risalgono al 2019.",
   "textDataAccess": "Accedi ai dati",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/CRIM_HOM_VREL/bookmark/table?lang=it&bookmarkId=1a2f9219-4691-4c59-90cb-0c6079474b65",
-  "textCountryClick": "Clicca per maggiori informazioni"
+  "textCountryClick": "Clicca per maggiori informazioni",
+  "extraInfoText_CY": "Dati del 2019",
+  "extraInfoText_FI": "Dati del 2019",
+  "extraInfoText_SE": "Dati del 2019"
 }

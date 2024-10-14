@@ -6,8 +6,11 @@
   "textSourceDescription": "Source",
   "textSource": "Eurostat",
   "textNoteDescription": "Note",
-  "textNote": "",
+  "textNote": "La plupart des données actuelles disponibles pour la Finlande, Chypre et la Suède datent de 2019.",
   "textDataAccess": "Accéder aux données",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/CRIM_HOM_VREL/bookmark/table?lang=en&bookmarkId=1a2f9219-4691-4c59-90cb-0c6079474b65",
-  "textCountryClick": "Cliquez pour plus d'informations"
+  "textCountryClick": "Cliquez pour plus d'informations",
+  "extraInfoText_CY": "Données de 2019",
+  "extraInfoText_FI": "Données de 2019",
+  "extraInfoText_SE": "Données de 2019"
 }

@@ -6,8 +6,11 @@
   "textSourceDescription": "Πηγή",
   "textSource": "Eurostat",
   "textNoteDescription": "Σημείωμα",
-  "textNote": "",
+  "textNote": "Τα περισσότερα πραγματικά διαθέσιμα δεδομένα για τη Φινλανδία, την Κύπρο και τη Σουηδία προέρχονται από το 2019.",
   "textDataAccess": "Πρόσβαση στα δεδομένα",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/CRIM_HOM_VREL/bookmark/table?lang=en&bookmarkId=1a2f9219-4691-4c59-90cb-0c6079474b65",
-  "textCountryClick": "Κάντε κλικ για περισσότερες πληροφορίες"
+  "textCountryClick": "Κάντε κλικ για περισσότερες πληροφορίες",
+  "extraInfoText_CY": "Στοιχεία από το 2019",
+  "extraInfoText_FI": "Στοιχεία από το 2019",
+  "extraInfoText_SE": "Στοιχεία από το 2019"
 }

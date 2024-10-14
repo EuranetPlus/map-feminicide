@@ -6,8 +6,11 @@
   "textSourceDescription": "Źródło",
   "textSource": "Eurostat",
   "textNoteDescription": "Notatka",
-  "textNote": "",
+  "textNote": "Większość aktualnych danych dla Finlandii, Cypru i Szwecji pochodzi z 2019 r.",
   "textDataAccess": "Uzyskaj dostęp do danych",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/CRIM_HOM_VREL/bookmark/table?lang=en&bookmarkId=1a2f9219-4691-4c59-90cb-0c6079474b65",
-  "textCountryClick": "Kliknij, aby uzyskać więcej informacji"
+  "textCountryClick": "Kliknij, aby uzyskać więcej informacji",
+  "extraInfoText_CY": "Dane z 2019 r.",
+  "extraInfoText_FI": "Dane z 2019 r.",
+  "extraInfoText_SE": "Dane z 2019 r."
 }

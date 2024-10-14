@@ -6,8 +6,11 @@
   "textSourceDescription": "Izvor",
   "textSource": "Eurostat",
   "textNoteDescription": "Bilješka",
-  "textNote": "",
+  "textNote": "Većina dostupnih stvarnih podataka za Finsku, Cipar i Švedsku je iz 2019.",
   "textDataAccess": "Pristupite podacima",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/CRIM_HOM_VREL/bookmark/table?lang=hr&bookmarkId=1a2f9219-4691-4c59-90cb-0c6079474b65",
-  "textCountryClick": "Kliknite za više informacija"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/CRIM_HOM_VREL/bookmark/table?lang=en&bookmarkId=1a2f9219-4691-4c59-90cb-0c6079474b65",
+  "textCountryClick": "Kliknite za više informacija",
+  "extraInfoText_CY": "Podaci iz 2019",
+  "extraInfoText_FI": "Podaci iz 2019",
+  "extraInfoText_SE": "Podaci iz 2019"
 }

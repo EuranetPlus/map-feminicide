@@ -6,8 +6,11 @@
   "textSourceDescription": "Quelle",
   "textSource": "Eurostat",
   "textNoteDescription": "Notiz",
-  "textNote": "",
+  "textNote": "Die meisten aktuell verfügbaren Daten für Finnland, Zypern und Schweden stammen aus dem Jahr 2019.",
   "textDataAccess": "Zugriff auf die Daten",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/CRIM_HOM_VREL/bookmark/table?lang=en&bookmarkId=1a2f9219-4691-4c59-90cb-0c6079474b65",
-  "textCountryClick": "Klicken Sie hier für weitere Informationen"
+  "textCountryClick": "Klicken Sie hier für weitere Informationen",
+  "extraInfoText_CY": "Daten aus 2019",
+  "extraInfoText_FI": "Daten aus 2019",
+  "extraInfoText_SE": "Daten aus 2019"
 }

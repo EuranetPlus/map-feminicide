@@ -6,8 +6,11 @@
   "textSourceDescription": "Foinse",
   "textSource": "Eurostat",
   "textNoteDescription": "Nóta",
-  "textNote": "",
+  "textNote": "Is ó 2019 a tháinig formhór na sonraí iarbhír atá ar fáil don Fhionlainn, don Chipir agus don tSualainn.",
   "textDataAccess": "Faigh rochtain ar na sonraí",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/CRIM_HOM_VREL/bookmark/table?lang=en&bookmarkId=1a2f9219-4691-4c59-90cb-0c6079474b65",
-  "textCountryClick": "Cliceáil le haghaidh tuilleadh eolais"
+  "textCountryClick": "Cliceáil le haghaidh tuilleadh eolais",
+  "extraInfoText_CY": "Sonraí ó 2019",
+  "extraInfoText_FI": "Sonraí ó 2019",
+  "extraInfoText_SE": "Sonraí ó 2019"
 }

@@ -6,8 +6,11 @@
   "textSourceDescription": "Allikas",
   "textSource": "Eurostat",
   "textNoteDescription": "Märkus",
-  "textNote": "",
+  "textNote": "Enamik tegelikke andmeid Soome, Küprose ja Rootsi kohta on 2019. aastast.",
   "textDataAccess": "Juurdepääs andmetele",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/CRIM_HOM_VREL/bookmark/table?lang=en&bookmarkId=1a2f9219-4691-4c59-90cb-0c6079474b65",
-  "textCountryClick": "Lisateabe saamiseks klõpsake"
+  "textCountryClick": "Lisateabe saamiseks klõpsake",
+  "extraInfoText_CY": "Andmed aastast 2019",
+  "extraInfoText_FI": "Andmed aastast 2019",
+  "extraInfoText_SE": "Andmed aastast 2019"
 }

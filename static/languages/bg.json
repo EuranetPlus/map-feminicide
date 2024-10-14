@@ -6,8 +6,11 @@
   "textSourceDescription": "Източник",
   "textSource": "Евростат",
   "textNoteDescription": "Забележка",
-  "textNote": "",
+  "textNote": "Най-актуалните налични данни за Финландия, Кипър и Швеция са от 2019 г.",
   "textDataAccess": "Достъп до данните",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/CRIM_HOM_VREL/bookmark/table?lang=en&bookmarkId=1a2f9219-4691-4c59-90cb-0c6079474b65",
-  "textCountryClick": "Кликнете за повече информация"
+  "textCountryClick": "Кликнете за повече информация",
+  "extraInfoText_CY": "Данни от 2019г",
+  "extraInfoText_FI": "Данни от 2019г",
+  "extraInfoText_SE": "Данни от 2019г"
 }

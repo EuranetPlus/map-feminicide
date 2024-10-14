@@ -6,8 +6,11 @@
   "textSourceDescription": "Avots",
   "textSource": "Eurostat",
   "textNoteDescription": "Piezīme",
-  "textNote": "",
+  "textNote": "Lielākā daļa faktisko datu par Somiju, Kipru un Zviedriju ir no 2019. gada.",
   "textDataAccess": "Piekļūstiet datiem",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/CRIM_HOM_VREL/bookmark/table?lang=en&bookmarkId=1a2f9219-4691-4c59-90cb-0c6079474b65",
-  "textCountryClick": "Noklikšķiniet, lai iegūtu vairāk informācijas"
+  "textCountryClick": "Noklikšķiniet, lai iegūtu vairāk informācijas",
+  "extraInfoText_CY": "Dati no 2019. gada",
+  "extraInfoText_FI": "Dati no 2019. gada",
+  "extraInfoText_SE": "Dati no 2019. gada"
 }
