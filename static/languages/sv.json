@@ -1,13 +1,11 @@
 {
-  "title": "Vilka EU-länder erbjuder de bästa sysselsättningsmöjligheterna?",
-  "subtitle": "Framtida sysselsättningstillväxt i dessa länder 2022-2035 beräknas till 5,6 %.",
+  "title": "Hur många kvinnor dödades av någon i deras närhet i Europa?",
+  "subtitle": "År 2023 var det genomsnittliga antalet mördade kvinnor i EU 0,47 per 100 000 personer. Dessa mord begicks vanligtvis av deras partner eller en familjemedlem.",
   "textNoteDescription": "Notera",
-  "textNote": "sdchdc",
+  "textNote": "Uppgifterna för Cypern, Italien och Sverige är från 2019, och för Finland och Malta är de från 2022. Det finns inga tillgängliga uppgifter för Belgien, Bulgarien, Luxemburg, Danmark, Polen eller Portugal. Uppgifterna samlas in från nationella statistikinstitut eller andra relevanta myndigheter. Starka variationer mellan medlemsstaterna kan bero på brist på standardiserade definitioner och inkonsekventa datainsamlingsmetoder.",
   "textSourceDescription": "Källa",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få åtkomst till data",
-  "extraInfo_DE": "Tyskland accelererar utbyggnaden av förnybar energi, siktar på 80 % ren kraft till 2030",
-  "extraInfo_FR": "Det franska parlamentet godkänner lagförslaget om stora invandringsreformer under rikstäckande protester",
+  "textSource": "Eurostat (2023)",
+  "linkDataAccessDescription": "Åtkomst till data",
   "legend1": "Inga data tillgängliga",
   "tooltipExtraInfoLabel": "Klicka här"
 }
