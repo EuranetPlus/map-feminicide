@@ -1,13 +1,11 @@
 {
-  "title": "Kuras ES valstis piedāvā vislabākās nodarbinātības izredzes?",
-  "subtitle": "Nākotnes nodarbinātības pieaugums šajās valstīs 2022.-2035.gadā tiek lēsts 5,6% apmērā.",
+  "title": "Cik sieviešu Eiropā nogalināja kāds viņām tuvs cilvēks?",
+  "subtitle": "2023. gadā vidējais slepkavību skaits ES bija 0,47 sievietes uz 100 000 cilvēku. Šīs slepkavības parasti izdarīja viņu partneris vai ģimenes loceklis.",
   "textNoteDescription": "Piezīme",
-  "textNote": "sdchdc",
+  "textNote": "Dati par Kipru, Itāliju un Zviedriju ir no 2019. gada, bet par Somiju un Maltu — no 2022. gada. Dati par Beļģiju, Bulgāriju, Luksemburgu, Dāniju, Poliju vai Portugāli nav pieejami. Dati ir apkopoti no valstu statistikas institūtiem vai citām attiecīgām iestādēm. Lielas atšķirības starp dalībvalstīm var būt saistītas ar standartizētu definīciju trūkumu un nekonsekventām datu vākšanas metodēm.",
   "textSourceDescription": "Avots",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2023)",
   "linkDataAccessDescription": "Piekļūstiet datiem",
-  "extraInfo_DE": "Vācija paātrina atjaunojamās enerģijas ieviešanu, paredz 80% tīras enerģijas līdz 2030. gadam",
-  "extraInfo_FR": "Francijas parlaments valsts mēroga protestu laikā apstiprina nozīmīgo imigrācijas reformas likumprojektu",
-  "legend1": "Nav pieejami dati",
+  "legend1": "Dati nav pieejami",
   "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
 }
