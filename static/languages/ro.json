@@ -1,13 +1,11 @@
 {
-  "title": "Care țări UE oferă cele mai bune perspective de angajare?",
-  "subtitle": "Creșterea viitoare a ocupării forței de muncă în aceste țări în perioada 2022-2035 este estimată la 5,6%.",
+  "title": "Câte femei au fost ucise de cineva apropiat în Europa?",
+  "subtitle": "În 2023, numărul mediu de femei ucise în UE a fost de 0,47 la 100.000 de persoane. Aceste crime au fost de obicei comise de partenerul lor sau de un membru al familiei.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Datele pentru Cipru, Italia și Suedia sunt din 2019, iar pentru Finlanda și Malta sunt din 2022. Nu există date disponibile pentru Belgia, Bulgaria, Luxemburg, Danemarca, Polonia sau Portugalia. Datele sunt colectate de la Institutele Naționale de Statistică sau de la alte autorități relevante. Variații puternice între statele membre se pot datora lipsei unor definiții standardizate și metodelor inconsistente de colectare a datelor.",
   "textSourceDescription": "Sursă",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2023)",
   "linkDataAccessDescription": "Accesați datele",
-  "extraInfo_DE": "Germania accelerează lansarea energiei regenerabile, țintește 80% energie curată până în 2030",
-  "extraInfo_FR": "Parlamentul francez aprobă un proiect de lege major de reformă a imigrației pe fondul protestelor la nivel național",
-  "legend1": "Nu există date disponibile",
+  "legend1": "Nu sunt disponibile date",
   "tooltipExtraInfoLabel": "Click aici"
 }
