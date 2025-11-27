@@ -1,13 +1,11 @@
 {
-  "title": "Welke EU-landen bieden de beste werkgelegenheidsvooruitzichten?",
-  "subtitle": "De toekomstige werkgelegenheidsgroei in deze landen in de periode 2022-2035 wordt geschat op 5,6%.",
+  "title": "Hoeveel vrouwen zijn er in Europa vermoord door iemand uit hun omgeving?",
+  "subtitle": "In 2023 bedroeg het gemiddelde aantal vermoorde vrouwen in de EU 0,47 per 100.000 inwoners. Deze moorden werden meestal gepleegd door hun partner of een familielid.",
   "textNoteDescription": "Opmerking",
-  "textNote": "sdchdc",
+  "textNote": "De gegevens voor Cyprus, Italië en Zweden zijn uit 2019, en voor Finland en Malta uit 2022. Er zijn geen gegevens beschikbaar voor België, Bulgarije, Luxemburg, Denemarken, Polen en Portugal. De gegevens worden verzameld door nationale bureaus voor de statistiek of andere relevante instanties. Sterke verschillen tussen lidstaten kunnen te wijten zijn aan een gebrek aan gestandaardiseerde definities en inconsistente methoden voor gegevensverzameling.",
   "textSourceDescription": "Bron",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2023)",
   "linkDataAccessDescription": "Toegang tot de gegevens",
-  "extraInfo_DE": "Duitsland versnelt uitrol van hernieuwbare energie, streeft naar 80% schone energie in 2030",
-  "extraInfo_FR": "Frans parlement keurt groot wetsvoorstel immigratiehervorming goed te midden van landelijke protesten",
   "legend1": "Geen gegevens beschikbaar",
   "tooltipExtraInfoLabel": "Klik hier"
 }
