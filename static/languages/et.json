@@ -1,13 +1,11 @@
 {
-  "title": "Millised ELi riigid pakuvad parimaid töövõimalusi?",
-  "subtitle": "Nendes riikides on edaspidine tööhõive kasv aastatel 2022–2035 hinnanguliselt 5,6%.",
+  "title": "Mitu naist tappis Euroopas lähedane inimene?",
+  "subtitle": "2023. aastal mõrvati EL-is keskmiselt 0,47 naist 100 000 inimese kohta. Need mõrvad pani tavaliselt toime partner või pereliige.",
   "textNoteDescription": "Märkus",
-  "textNote": "sdchdc",
+  "textNote": "Küprose, Itaalia ja Rootsi andmed pärinevad 2019. aastast ning Soome ja Malta andmed 2022. aastast. Belgia, Bulgaaria, Luksemburgi, Taani, Poola ja Portugali kohta andmed puuduvad. Andmed on kogutud riiklikelt statistikaametitelt või muudelt asjaomastelt asutustelt. Suured erinevused liikmesriikide vahel võivad tuleneda standardiseeritud määratluste puudumisest ja ebajärjekindlatest andmekogumismeetoditest.",
   "textSourceDescription": "Allikas",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2023)",
   "linkDataAccessDescription": "Juurdepääs andmetele",
-  "extraInfo_DE": "Saksamaa kiirendab taastuvenergia kasutuselevõttu, seab eesmärgiks 80% puhta energia kasutamise aastaks 2030",
-  "extraInfo_FR": "Prantsusmaa parlament kiitis üleriigiliste protestide taustal heaks immigratsioonireformi seaduse eelnõu",
-  "legend1": "Andmed puuduvad",
-  "tooltipExtraInfoLabel": "Klõpsake siin"
+  "legend1": "Andmed pole saadaval",
+  "tooltipExtraInfoLabel": "Kliki siia"
 }
