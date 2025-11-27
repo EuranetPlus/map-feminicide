@@ -1,13 +1,11 @@
 {
-  "title": "Które kraje UE oferują najlepsze perspektywy zatrudnienia?",
-  "subtitle": "Szacuje się, że przyszły wzrost zatrudnienia w tych krajach w latach 2022–2035 wyniesie 5,6%.",
+  "title": "Ile kobiet w Europie zostało zabitych przez kogoś bliskiego?",
+  "subtitle": "W 2023 roku średnia liczba zamordowanych kobiet w UE wynosiła 0,47 na 100 000 osób. Morderstwa te były zazwyczaj popełniane przez partnera lub członka rodziny.",
   "textNoteDescription": "Notatka",
-  "textNote": "sdchdc",
+  "textNote": "Dane dla Cypru, Włoch i Szwecji pochodzą z 2019 roku, a dla Finlandii i Malty z 2022 roku. Brak danych dla Belgii, Bułgarii, Luksemburga, Danii, Polski i Portugalii. Dane pochodzą z krajowych urzędów statystycznych lub innych właściwych organów. Duże różnice między państwami członkowskimi mogą wynikać z braku ujednoliconych definicji i niespójnych metod gromadzenia danych.",
   "textSourceDescription": "Źródło",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Uzyskaj dostęp do danych",
-  "extraInfo_DE": "Niemcy przyspieszają wdrażanie energii odnawialnej, dążąc do 80% czystej energii do 2030 r.",
-  "extraInfo_FR": "Parlament francuski zatwierdza projekt ustawy o dużej reformie imigracyjnej w obliczu ogólnokrajowych protestów",
+  "textSource": "Eurostat (2023)",
+  "linkDataAccessDescription": "Dostęp do danych",
   "legend1": "Brak dostępnych danych",
   "tooltipExtraInfoLabel": "Kliknij tutaj"
 }
