@@ -1,13 +1,11 @@
 {
-  "title": "Quels pays de l’UE offrent les meilleures perspectives d’emploi ?",
-  "subtitle": "La croissance future de l’emploi dans ces pays en 2022-2035 est estimée à 5,6 %.",
+  "title": "Combien de femmes ont été tuées par un proche en Europe ?",
+  "subtitle": "En 2023, le taux moyen de féminicides dans l'UE était de 0,47 pour 100 000 habitants. Ces meurtres étaient généralement commis par le conjoint ou un membre de la famille.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "Les données relatives à Chypre, à l'Italie et à la Suède datent de 2019, et celles de la Finlande et de Malte de 2022. Aucune donnée n'est disponible pour la Belgique, la Bulgarie, le Luxembourg, le Danemark, la Pologne ni le Portugal. Les données proviennent des instituts nationaux de statistique ou d'autres autorités compétentes. Les fortes variations observées entre les États membres peuvent s'expliquer par l'absence de définitions standardisées et par des méthodes de collecte de données non uniformes.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2023)",
   "linkDataAccessDescription": "Accéder aux données",
-  "extraInfo_DE": "L'Allemagne accélère le déploiement des énergies renouvelables et vise 80 % d'énergie propre d'ici 2030",
-  "extraInfo_FR": "Le Parlement français approuve un important projet de loi sur la réforme de l'immigration au milieu de manifestations à l'échelle nationale",
   "legend1": "Aucune donnée disponible",
   "tooltipExtraInfoLabel": "Cliquez ici"
 }
