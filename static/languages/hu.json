@@ -1,13 +1,11 @@
 {
-  "title": "Mely uniós országok kínálják a legjobb foglalkoztatási kilátásokat?",
-  "subtitle": "A foglalkoztatás jövőbeni növekedése ezekben az országokban 2022 és 2035 között 5,6%-ra becsülhető.",
+  "title": "Hány nőt ölt meg egy hozzá közel álló személy Európában?",
+  "subtitle": "2023-ban az EU-ban meggyilkolt nők átlagos száma 100 000 főre vetítve 0,47 volt. Ezeket a gyilkosságokat általában a partnerük vagy egy családtagjuk követte el.",
   "textNoteDescription": "Jegyzet",
-  "textNote": "sdchdc",
+  "textNote": "Ciprus, Olaszország és Svédország adatai 2019-ből, Finnország és Málta adatai pedig 2022-ből származnak. Belgium, Bulgária, Luxemburg, Dánia, Lengyelország és Portugália esetében nem állnak rendelkezésre adatok. Az adatokat nemzeti statisztikai intézetektől vagy más illetékes hatóságoktól gyűjtik. A tagállamok közötti jelentős eltérések oka lehet a szabványosított definíciók hiánya és a következetlen adatgyűjtési módszerek.",
   "textSourceDescription": "Forrás",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2023)",
   "linkDataAccessDescription": "Hozzáférés az adatokhoz",
-  "extraInfo_DE": "Németország felgyorsítja a megújuló energia elterjedését, és 2030-ra a 80%-os tiszta energia elérését tűzi ki célul",
-  "extraInfo_FR": "A francia parlament országos tiltakozások közepette jóváhagyta a jelentős bevándorlási reformról szóló törvényjavaslatot",
-  "legend1": "Nincs adat",
+  "legend1": "Nincsenek elérhető adatok",
   "tooltipExtraInfoLabel": "Kattintson ide"
 }
