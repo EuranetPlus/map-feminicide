@@ -1,13 +1,11 @@
 {
-  "title": "Welche EU-Länder bieten die besten Beschäftigungsaussichten?",
-  "subtitle": "Das künftige Beschäftigungswachstum in diesen Ländern im Zeitraum 2022–2035 wird auf 5,6 % geschätzt.",
+  "title": "Wie viele Frauen wurden in Europa von einer ihnen nahestehenden Person getötet?",
+  "subtitle": "Im Jahr 2023 lag die durchschnittliche Anzahl der in der EU ermordeten Frauen bei 0,47 pro 100.000 Einwohner. Diese Morde wurden in der Regel von ihrem Partner oder einem Familienmitglied begangen.",
   "textNoteDescription": "Notiz",
-  "textNote": "sdchdc",
+  "textNote": "Die Daten für Zypern, Italien und Schweden stammen aus dem Jahr 2019, die für Finnland und Malta aus dem Jahr 2022. Für Belgien, Bulgarien, Luxemburg, Dänemark, Polen und Portugal liegen keine Daten vor. Die Daten werden von nationalen Statistikämtern oder anderen zuständigen Behörden erhoben. Deutliche Unterschiede zwischen den Mitgliedstaaten können auf fehlende Standarddefinitionen und uneinheitliche Datenerhebungsmethoden zurückzuführen sein.",
   "textSourceDescription": "Quelle",
-  "textSource": "Abonnieren",
-  "linkDataAccessDescription": "Zugriff auf die Daten",
-  "extraInfo_DE": "Deutschland beschleunigt Ausbau erneuerbarer Energien und strebt bis 2030 80 % sauberen Stromanteil an",
-  "extraInfo_FR": "Französisches Parlament verabschiedet inmitten landesweiter Proteste ein umfassendes Gesetz zur Einwanderungsreform",
+  "textSource": "Eurostat (2023)",
+  "linkDataAccessDescription": "Greifen Sie auf die Daten zu.",
   "legend1": "Keine Daten verfügbar",
   "tooltipExtraInfoLabel": "klicken Sie hier"
 }
