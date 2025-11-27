@@ -1,13 +1,11 @@
 {
-  "title": "Katere države EU ponujajo najboljše zaposlitvene možnosti?",
-  "subtitle": "Prihodnja rast zaposlenosti v teh državah v letih 2022–2035 je ocenjena na 5,6 %.",
+  "title": "Koliko žensk je v Evropi ubil nekdo, ki jim je bil blizu?",
+  "subtitle": "Leta 2023 je bilo povprečno število umorjenih žensk v EU 0,47 na 100.000 ljudi. Te umore so običajno zagrešili njihovi partnerji ali družinski člani.",
   "textNoteDescription": "Opomba",
-  "textNote": "sdchdc",
+  "textNote": "Podatki za Ciper, Italijo in Švedsko so iz leta 2019, za Finsko in Malto pa iz leta 2022. Za Belgijo, Bolgarijo, Luksemburg, Dansko, Poljsko ali Portugalsko podatki niso na voljo. Podatki so zbrani pri nacionalnih statističnih uradih ali drugih ustreznih organih. Velike razlike med državami članicami so lahko posledica pomanjkanja standardiziranih opredelitev in nedoslednih metod zbiranja podatkov.",
   "textSourceDescription": "Vir",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2023)",
   "linkDataAccessDescription": "Dostop do podatkov",
-  "extraInfo_DE": "Nemčija pospešuje uvedbo obnovljive energije, cilj je 80 % čiste energije do leta 2030",
-  "extraInfo_FR": "Francoski parlament je med protesti po vsej državi potrdil predlog zakona o veliki reformi priseljevanja",
-  "legend1": "Ni podatkov",
+  "legend1": "Ni na voljo podatkov",
   "tooltipExtraInfoLabel": "Kliknite tukaj"
 }
