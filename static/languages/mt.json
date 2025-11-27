@@ -1,13 +1,11 @@
 {
-  "title": "Liema pajjiżi tal-UE joffru l-aħjar prospetti ta' impjieg?",
-  "subtitle": "It-tkabbir futur fl-impjiegi f'dawn il-pajjiżi fl-2022-2035 huwa stmat għal 5.6%.",
+  "title": "Kemm nisa nqatlu minn xi ħadd qrib tagħhom fl-Ewropa?",
+  "subtitle": "Fl-2023, l-għadd medju ta’ nisa li nqatlu fl-UE kien ta’ 0.47 għal kull 100,000 persuna. Dawn il-qtil ġeneralment twettqu mis-sieħeb tagħhom jew minn membru tal-familja.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Id-dejta għal Ċipru, l-Italja u l-Iżvezja hija mill-2019, u għall-Finlandja u Malta hija mill-2022. M'hemm l-ebda dejta disponibbli għall-Belġju, il-Bulgarija, il-Lussemburgu, id-Danimarka, il-Polonja jew il-Portugall. Id-dejta tinġabar mill-Istituti Nazzjonali tal-Istatistika jew minn awtoritajiet rilevanti oħra. Varjazzjonijiet qawwija bejn l-istati membri jistgħu jkunu dovuti għal nuqqas ta' definizzjonijiet standardizzati u metodi inkonsistenti ta' ġbir ta' dejta.",
   "textSourceDescription": "Sors",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Aċċessa għad-data",
-  "extraInfo_DE": "Il-Ġermanja Tħaffef il-Ħruġ tal-Enerġija Rinnovabbli, Timmira 80% Enerġija Nadifa sal-2030",
-  "extraInfo_FR": "Il-Parlament Franċiż Japprova Abbozz ta' Liġi ta' Riforma Maġġuri fl-Immigrazzjoni Fost Protesti Nazzjonali",
+  "textSource": "L-Eurostat (2023)",
+  "linkDataAccessDescription": "Aċċessa d-dejta",
   "legend1": "L-ebda dejta disponibbli",
   "tooltipExtraInfoLabel": "Ikklikkja hawn"
 }
