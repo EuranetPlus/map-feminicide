@@ -1,13 +1,11 @@
 {
-  "title": "¿Qué países de la UE ofrecen las mejores perspectivas de empleo?",
-  "subtitle": "Se estima que el crecimiento futuro del empleo en estos países en el período 2022-2035 será del 5,6%.",
+  "title": "¿Cuántas mujeres fueron asesinadas por alguien cercano a ellas en Europa?",
+  "subtitle": "En 2023, la media de mujeres asesinadas en la UE fue de 0,47 por cada 100.000 habitantes. Estos asesinatos fueron cometidos, en su mayoría, por su pareja o un familiar.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Los datos de Chipre, Italia y Suecia corresponden a 2019, y los de Finlandia y Malta a 2022. No hay datos disponibles de Bélgica, Bulgaria, Luxemburgo, Dinamarca, Polonia ni Portugal. Los datos proceden de los Institutos Nacionales de Estadística u otras autoridades competentes. Las marcadas variaciones entre los Estados miembros pueden deberse a la falta de definiciones estandarizadas y a la incoherencia de los métodos de recopilación de datos.",
   "textSourceDescription": "Fuente",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2023)",
   "linkDataAccessDescription": "Acceder a los datos",
-  "extraInfo_DE": "Alemania acelera el despliegue de energía renovable y aspira a que el 80 % de su energía sea limpia en 2030",
-  "extraInfo_FR": "El Parlamento francés aprueba un importante proyecto de ley de reforma migratoria en medio de protestas a nivel nacional",
   "legend1": "No hay datos disponibles",
   "tooltipExtraInfoLabel": "haga clic aquí"
 }
