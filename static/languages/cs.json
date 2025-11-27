@@ -1,13 +1,11 @@
 {
-  "title": "Které země EU nabízejí nejlepší vyhlídky na zaměstnání?",
-  "subtitle": "Budoucí růst zaměstnanosti v těchto zemích v letech 2022-2035 se odhaduje na 5,6 %.",
+  "title": "Kolik žen bylo v Evropě zabito někým z jejich blízkých?",
+  "subtitle": "V roce 2023 byl průměrný počet zavražděných žen v EU 0,47 na 100 000 obyvatel. Tyto vraždy obvykle spáchal jejich partner nebo člen rodiny.",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
+  "textNote": "Údaje pro Kypr, Itálii a Švédsko jsou z roku 2019 a pro Finsko a Maltu z roku 2022. Pro Belgii, Bulharsko, Lucembursko, Dánsko, Polsko ani Portugalsko nejsou k dispozici žádné údaje. Údaje jsou shromažďovány od národních statistických úřadů nebo jiných příslušných orgánů. Velké rozdíly mezi členskými státy mohou být způsobeny nedostatkem standardizovaných definic a nekonzistentními metodami sběru údajů.",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2023)",
   "linkDataAccessDescription": "Přístup k datům",
-  "extraInfo_DE": "Německo urychluje zavádění obnovitelné energie a do roku 2030 si klade za cíl 80 % čisté energie",
-  "extraInfo_FR": "Francouzský parlament schválil návrh zákona o velké imigrační reformě uprostřed celonárodních protestů",
-  "legend1": "Nejsou k dispozici žádné údaje",
+  "legend1": "Žádné údaje k dispozici",
   "tooltipExtraInfoLabel": "Klikněte zde"
 }
