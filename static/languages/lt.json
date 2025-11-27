@@ -1,13 +1,11 @@
 {
-  "title": "Kurios ES šalys siūlo geriausias įsidarbinimo perspektyvas?",
-  "subtitle": "Skaičiuojama, kad būsimas užimtumo augimas šiose šalyse 2022–2035 m. sieks 5,6 proc.",
+  "title": "Kiek moterų Europoje nužudė joms artimas žmogus?",
+  "subtitle": "2023 m. vidutinis nužudytų moterų skaičius ES buvo 0,47 100 000 žmonių. Šias žmogžudystes dažniausiai įvykdydavo jų partneris arba šeimos narys.",
   "textNoteDescription": "Pastaba",
-  "textNote": "sdchdc",
+  "textNote": "Kipro, Italijos ir Švedijos duomenys yra 2019 m., o Suomijos ir Maltos – 2022 m. Belgijos, Bulgarijos, Liuksemburgo, Danijos, Lenkijos ir Portugalijos duomenų nėra. Duomenys renkami iš nacionalinių statistikos institutų arba kitų atitinkamų institucijų. Dideli skirtumai tarp valstybių narių gali būti dėl standartizuotų apibrėžimų trūkumo ir nenuoseklių duomenų rinkimo metodų.",
   "textSourceDescription": "Šaltinis",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pasiekite duomenis",
-  "extraInfo_DE": "Vokietija paspartina atsinaujinančios energijos diegimą ir siekia 80 % švarios energijos iki 2030 m.",
-  "extraInfo_FR": "Prancūzijos parlamentas, kilus protestams visoje šalyje, patvirtino pagrindinį imigracijos reformos įstatymo projektą",
+  "textSource": "Eurostatas (2023 m.)",
+  "linkDataAccessDescription": "Prieiga prie duomenų",
   "legend1": "Nėra duomenų",
-  "tooltipExtraInfoLabel": "Spauskite čia"
+  "tooltipExtraInfoLabel": "Spustelėkite čia"
 }
