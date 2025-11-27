@@ -1,13 +1,11 @@
 {
-  "title": "Cé na tíortha san AE a thairgeann na hionchais fostaíochta is fearr?",
-  "subtitle": "Meastar gur 5.6% an fás fostaíochta amach anseo sna tíortha seo in 2022-2035.",
+  "title": "Cé mhéad bean a maraíodh ag duine a raibh dlúthbhaint acu leis san Eoraip?",
+  "subtitle": "Sa bhliain 2023, ba é 0.47 in aghaidh gach 100,000 duine meánlíon na mban a maraíodh san AE. De ghnáth, ba iad a bpáirtnéir nó ball teaghlaigh a rinne na dúnmharuithe seo.",
   "textNoteDescription": "Nóta",
-  "textNote": "sdchdc",
+  "textNote": "Is ón mbliain 2019 atá na sonraí don Chipir, don Iodáil agus don tSualainn, agus is ón mbliain 2022 atá siad don Fhionlainn agus do Mhálta. Níl aon sonraí ar fáil don Bheilg, don Bhulgáir, do Lucsamburg, don Danmhairg, don Pholainn ná don Phortaingéil. Bailítear na sonraí ó Institiúidí Staidrimh Náisiúnta nó ó údaráis ábhartha eile. D’fhéadfadh éagsúlachtaí móra idir na Ballstáit a bheith mar gheall ar easpa sainmhínithe caighdeánaithe agus modhanna neamhréireacha bailithe sonraí.",
   "textSourceDescription": "Foinse",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Faigh rochtain ar na sonraí",
-  "extraInfo_DE": "Luathaíonn an Ghearmáin Rolladh Amach Fuinnimh In-athnuaite, Dírítear 80% ar Chumhacht Ghlan faoi 2030",
-  "extraInfo_FR": "Formheasann Parlaimint na Fraince Bille um Athchóiriú an Mhór-Imirce i measc Agóidí ar fud na tíre",
+  "textSource": "Eurostat (2023)",
+  "linkDataAccessDescription": "Rochtain ar na sonraí",
   "legend1": "Níl aon sonraí ar fáil",
   "tooltipExtraInfoLabel": "Cliceáil anseo"
 }
